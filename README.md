@@ -1,13 +1,5 @@
 # discord-fivem-browser
 
-A FiveM helper bot for Discord. Shows player count in the channel title and delivers a list of players when requested.
-
-### Channel Title
-![Imgur](https://i.imgur.com/CivuAY9.png?1)
-
-### Server Browser
-![Imgur](https://i.imgur.com/InoMIPv.png)
-
 ### Quick start
 
 1. Install the latest Node.js
